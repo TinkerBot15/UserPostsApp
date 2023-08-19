@@ -18,7 +18,7 @@ class UserPostController extends Controller
 
     public function create()
     {
-        return view('create-post'); // Assuming 'create-post.blade.php' is the name of your create form view
+        return view('create-post');
     }
 
 
